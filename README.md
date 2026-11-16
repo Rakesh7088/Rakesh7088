@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rakesh! 👋
 
-<!--
-**Rakesh7088/Rakesh7088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Biotechnology Graduate
 
-Here are some ideas to get you started:
+I'm building my skills in data analytics through hands-on projects, focusing on transforming raw data into meaningful insights and actionable visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- Microsoft Excel
+- Data Cleaning & Data Analysis
+- Dashboard Development
+- Data Visualization
+
+### 📚 Currently Learning
+- SQL
+- Power BI
+- Python for Data Analysis
+
+### 🎯 My Goal
+To develop strong analytical skills and solve real-world business problems using data.
